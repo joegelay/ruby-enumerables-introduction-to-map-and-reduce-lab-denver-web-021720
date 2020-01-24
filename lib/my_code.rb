@@ -60,8 +60,8 @@ end
 
 def reduce_to_all_true(source_array)
    while i < source_array.length do 
-    result << (source_array[i] ** 2)
-    i += 1 
+   result << (source_array[i] ** 2)
+   i += 1 
   end 
 end
 
